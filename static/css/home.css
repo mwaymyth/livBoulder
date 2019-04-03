@@ -1,0 +1,49 @@
+/* Navbar */
+.navbar-default {
+	background-color: #75B247;
+}
+
+/*Defined Class, White*/
+.navbar-writing{
+	color: #FFFFFF;
+}
+
+/*Defined Class, Blue */
+.blue-color{
+	background-color: #6F80FF;
+}
+
+/*Defined Class, Green*/
+.green-color{
+	background-color: #75B247;
+}
+/*Defined Class, cream */
+.cream-color{
+	color: #F5F7DF;
+}
+
+/* Hero  */
+.header-img {
+	width: 100%;
+	background:url('../img/largeHeaderImg.jpg');
+	height:500px;
+	background-position: center;
+	background-size: cover;
+}
+
+/* Content Grid */
+.grid-label {
+	padding-top: 50px;
+}
+
+/*Defined Class, creates grey box around text sections */
+.row {
+	background: rgba(5, 5, 5, 0.2);
+	text-align: center;
+}
+
+/*Defined Class, alligns writing in paragraphs to center */
+.txt-align {
+	text-align: center;
+	margin-right: 20%;
+}
